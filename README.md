@@ -8,3 +8,7 @@ A slideshow for e621, powered by Tampermonkey.
 4. Profit.
 
 *You could also make new userscripts and copy/paste from this github.
+
+
+For custom tags, edit line 22 of "Goon-Direct" with your preferred tags.
+For help with tags, visit https://e621.net/help/cheatsheet
